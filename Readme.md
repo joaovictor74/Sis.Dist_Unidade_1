@@ -23,7 +23,7 @@
             * Operador1 Operando Operador2 
             * Obs: Os espaços são obrigatórios
             * EX: 10 + 10    
-    * Só é possivel fazer uma operação por vez
+   * Só é possivel fazer uma operação por vez
     
   * Como funciona ?
     * O Operador1 e Operador2 são váriaveis que esperam um número do tipo real (Float)
